@@ -1,0 +1,9 @@
+{
+	"name": "shakeeraadfdev",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c2187559-2ab0-40de-9bb2-a7f622cf1357",
+		"tenantId": "174941da-b4f2-4bf8-ad4a-1c3f548e1416"
+	}
+}
